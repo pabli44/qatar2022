@@ -9,6 +9,13 @@ CRUD jugadores QATAR 2022
 - Spring Boot
 
 
+# como funciona
+- gradle clean
+- gradle build
+- gradle bootRun
+- el proyecto corre el el puerto 8080
+
+
 # postman services
 obtener jugadores(GET)<br/>
 http://localhost:8080/qatar/apiv1/jugadores
